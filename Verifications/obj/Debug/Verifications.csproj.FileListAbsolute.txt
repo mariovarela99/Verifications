@@ -1,1 +1,9 @@
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\Verifications\bin\Debug\Verifications.exe.config
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\bin\Debug\Verifications.exe.config
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\bin\Debug\Verifications.exe
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\bin\Debug\Verifications.pdb
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\obj\Debug\Verifications.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\obj\Debug\Verifications.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\obj\Debug\Verifications.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\obj\Debug\Verifications.exe
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verifications\obj\Debug\Verifications.pdb

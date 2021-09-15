@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verifications", "Verifications\Verifications.csproj", "{3ABD26C2-206F-4F59-891B-6D6FBF6AF4B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verify", "Verify\Verify.csproj", "{709FB51A-ACE8-4609-AE90-D4080B761B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{3ABD26C2-206F-4F59-891B-6D6FBF6AF4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ABD26C2-206F-4F59-891B-6D6FBF6AF4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ABD26C2-206F-4F59-891B-6D6FBF6AF4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709FB51A-ACE8-4609-AE90-D4080B761B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709FB51A-ACE8-4609-AE90-D4080B761B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709FB51A-ACE8-4609-AE90-D4080B761B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709FB51A-ACE8-4609-AE90-D4080B761B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
