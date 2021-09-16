@@ -1,0 +1,13 @@
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.exe.config
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.exe
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.pdb
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.csprojResolveAssemblyReference.cache
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsPositiveForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.Verify.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.Properties.Resources.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.csproj.GenerateResource.Cache
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.exe
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.pdb
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsNegativeForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsParForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsImparForm.resources

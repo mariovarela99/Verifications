@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Verify
 {
-    class Verifications
+    public class Verifications
     {
         // Funcao que verifica se o number e positivo
         public bool isPositive(int number)
@@ -117,7 +117,22 @@ namespace Verify
                 return false;
         }
 
-        public string Order3Numbers(int n1, int n2, int n3)
+        public string ParOrImpar(int number)
+        {
+            if (number % 2 == 0) return "Par"; else return "Impar";
+        }
+
+        public string PositiveOrNegative(int number)
+        {
+            if (number > 0) return "Positive"; else return "Negative";
+        }
+
+        public double MediaArtimetica3(int n1, int n2, int n3)
+        {
+            return ((n1 + n2 + n3) / 3);
+        }
+
+        /*public string Order3Numbers(int n1, int n2, int n3)
         {
             if (n1 > n3 && n2 > n3)
             {
@@ -128,6 +143,6 @@ namespace Verify
                 if((n1 < n3 && n2 < n3))
                     return String.Format("{0} => {1} => {2} ", GetMax(n1, n2), GetMin(n1, n2), n3);
             }
-        }
+        }*/
     }
 }
