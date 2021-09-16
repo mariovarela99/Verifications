@@ -75,6 +75,7 @@
             this.ContarDivisores.TabIndex = 1;
             this.ContarDivisores.Text = "Contar Divisores";
             this.ContarDivisores.UseVisualStyleBackColor = false;
+            this.ContarDivisores.Click += new System.EventHandler(this.ContarDivisores_Click);
             // 
             // SomarDivisores
             // 

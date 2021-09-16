@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContarDivisoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContarDivisoresForm.Designer.cs">
+      <DependentUpon>ContarDivisoresForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="IsImparForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,11 +74,11 @@
     <Compile Include="IsPositiveForm.Designer.cs">
       <DependentUpon>IsPositiveForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SomarDivisores.cs">
+    <Compile Include="SomarDivisoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SomarDivisores.Designer.cs">
-      <DependentUpon>SomarDivisores.cs</DependentUpon>
+    <Compile Include="SomarDivisoresForm.Designer.cs">
+      <DependentUpon>SomarDivisoresForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Verify.cs">
       <SubType>Form</SubType>
@@ -83,6 +89,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Verifications.cs" />
+    <EmbeddedResource Include="ContarDivisoresForm.resx">
+      <DependentUpon>ContarDivisoresForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="IsImparForm.resx">
       <DependentUpon>IsImparForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,8 +104,8 @@
     <EmbeddedResource Include="IsPositiveForm.resx">
       <DependentUpon>IsPositiveForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SomarDivisores.resx">
-      <DependentUpon>SomarDivisores.cs</DependentUpon>
+    <EmbeddedResource Include="SomarDivisoresForm.resx">
+      <DependentUpon>SomarDivisoresForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Verify.resx">
       <DependentUpon>Verify.cs</DependentUpon>

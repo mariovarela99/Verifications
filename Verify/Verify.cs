@@ -48,5 +48,11 @@ namespace Verify
             SomarDivisoresForm SomarAllDivisores = new SomarDivisoresForm();
             SomarAllDivisores.Show();
         }
+
+        private void ContarDivisores_Click(object sender, EventArgs e)
+        {
+            ContarDivisoresForm ContarAllContadores = new ContarDivisoresForm();
+            ContarAllContadores.Show();
+        }
     }
 }
