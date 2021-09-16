@@ -68,6 +68,12 @@
     <Compile Include="IsPositiveForm.Designer.cs">
       <DependentUpon>IsPositiveForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SomarDivisores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SomarDivisores.Designer.cs">
+      <DependentUpon>SomarDivisores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Verify.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="IsPositiveForm.resx">
       <DependentUpon>IsPositiveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SomarDivisores.resx">
+      <DependentUpon>SomarDivisores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Verify.resx">
       <DependentUpon>Verify.cs</DependentUpon>

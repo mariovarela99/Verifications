@@ -88,6 +88,7 @@
             this.SomarDivisores.TabIndex = 2;
             this.SomarDivisores.Text = "Somar Divisores";
             this.SomarDivisores.UseVisualStyleBackColor = false;
+            this.SomarDivisores.Click += new System.EventHandler(this.SomarDivisores_Click);
             // 
             // IsImpar
             // 

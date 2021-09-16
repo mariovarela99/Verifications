@@ -11,3 +11,4 @@ C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verif
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsNegativeForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsParForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsImparForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.SomarDivisores.resources

@@ -42,5 +42,11 @@ namespace Verify
             IsImparForm ImparForm = new IsImparForm();
             ImparForm.Show();
         }
+
+        private void SomarDivisores_Click(object sender, EventArgs e)
+        {
+            SomarDivisoresForm SomarAllDivisores = new SomarDivisoresForm();
+            SomarAllDivisores.Show();
+        }
     }
 }
