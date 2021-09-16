@@ -66,5 +66,23 @@ namespace Verify
             IsPrimoForm PrimoForm = new IsPrimoForm();
             PrimoForm.Show();
         }
+
+        private void GetMax_Click(object sender, EventArgs e)
+        {
+            GetMaxForm GettingMax = new GetMaxForm();
+            GettingMax.Show();
+        }
+
+        private void GetMin_Click(object sender, EventArgs e)
+        {
+            GetMinForm GettingMin = new GetMinForm();
+            GettingMin.Show();
+        }
+
+        private void AreEquals_Click(object sender, EventArgs e)
+        {
+            AreEqualsForm EqualsForm = new AreEqualsForm();
+            EqualsForm.Show();
+        }
     }
 }

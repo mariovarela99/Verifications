@@ -159,6 +159,7 @@
             this.GetMax.TabIndex = 10;
             this.GetMax.Text = "GetMax()";
             this.GetMax.UseVisualStyleBackColor = false;
+            this.GetMax.Click += new System.EventHandler(this.GetMax_Click);
             // 
             // GetMin
             // 
@@ -172,6 +173,7 @@
             this.GetMin.TabIndex = 9;
             this.GetMin.Text = "GetMin()";
             this.GetMin.UseVisualStyleBackColor = false;
+            this.GetMin.Click += new System.EventHandler(this.GetMin_Click);
             // 
             // AreEquals
             // 
@@ -185,6 +187,7 @@
             this.AreEquals.TabIndex = 8;
             this.AreEquals.Text = "AreEquals?";
             this.AreEquals.UseVisualStyleBackColor = false;
+            this.AreEquals.Click += new System.EventHandler(this.AreEquals_Click);
             // 
             // AreFriends
             // 
@@ -259,7 +262,7 @@
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(128, 45);
             this.button15.TabIndex = 16;
-            this.button15.Text = "GetMin()";
+            this.button15.Text = "Brevemente";
             this.button15.UseVisualStyleBackColor = false;
             // 
             // button16
@@ -272,7 +275,7 @@
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(128, 45);
             this.button16.TabIndex = 15;
-            this.button16.Text = "AreEquals?";
+            this.button16.Text = "Brevemente";
             this.button16.UseVisualStyleBackColor = false;
             // 
             // button17
@@ -285,7 +288,7 @@
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(128, 45);
             this.button17.TabIndex = 14;
-            this.button17.Text = "AreFriends?";
+            this.button17.Text = "Brevemente";
             this.button17.UseVisualStyleBackColor = false;
             // 
             // ParOrImpar

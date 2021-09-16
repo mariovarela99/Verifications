@@ -44,11 +44,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AreEqualsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreEqualsForm.Designer.cs">
+      <DependentUpon>AreEqualsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ContarDivisoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ContarDivisoresForm.Designer.cs">
       <DependentUpon>ContarDivisoresForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetMaxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetMaxForm.Designer.cs">
+      <DependentUpon>GetMaxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetMinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetMinForm.Designer.cs">
+      <DependentUpon>GetMinForm.cs</DependentUpon>
     </Compile>
     <Compile Include="IsImparForm.cs">
       <SubType>Form</SubType>
@@ -101,8 +119,17 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Verifications.cs" />
+    <EmbeddedResource Include="AreEqualsForm.resx">
+      <DependentUpon>AreEqualsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ContarDivisoresForm.resx">
       <DependentUpon>ContarDivisoresForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetMaxForm.resx">
+      <DependentUpon>GetMaxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetMinForm.resx">
+      <DependentUpon>GetMinForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="IsImparForm.resx">
       <DependentUpon>IsImparForm.cs</DependentUpon>

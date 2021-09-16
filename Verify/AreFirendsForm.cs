@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace Verify
 {
-    public partial class GetMaxForm : Form
+    public partial class AreFirendsForm : Form
     {
 
         Verifications Verificar = new Verifications();
 
-        public GetMaxForm()
+        public AreFirendsForm()
         {
             InitializeComponent();
         }
 
         private void btnVerify_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(String.Format("O Maior Number é: {0}", (Verificar.GetMax(int.Parse(txtValor.Text), int.Parse(txtValor1.Text)))));
+            MessageBox.Show(String.Format("São Amigos ?? R: {0}", (Verificar.AreFriends(int.Parse(txtValor.Text), int.Parse(txtValor1.Text)))));
         }
     }
 }
