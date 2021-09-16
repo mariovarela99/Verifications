@@ -210,6 +210,7 @@
             this.IsPerfect.TabIndex = 6;
             this.IsPerfect.Text = "IsPerfect?";
             this.IsPerfect.UseVisualStyleBackColor = false;
+            this.IsPerfect.Click += new System.EventHandler(this.IsPerfect_Click);
             // 
             // label1
             // 

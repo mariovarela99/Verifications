@@ -68,6 +68,12 @@
     <Compile Include="IsParForm.Designer.cs">
       <DependentUpon>IsParForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="IsPerfectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IsPerfectForm.Designer.cs">
+      <DependentUpon>IsPerfectForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="IsPositiveForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +106,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="IsParForm.resx">
       <DependentUpon>IsParForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IsPerfectForm.resx">
+      <DependentUpon>IsPerfectForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="IsPositiveForm.resx">
       <DependentUpon>IsPositiveForm.cs</DependentUpon>

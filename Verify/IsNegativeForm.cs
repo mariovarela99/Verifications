@@ -23,5 +23,15 @@ namespace Verify
         {
             MessageBox.Show(String.Format("O Number é Negativo ?? R: {0}", (Verificar.isNegative(int.Parse(txtValor.Text))).ToString()));
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtValor_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

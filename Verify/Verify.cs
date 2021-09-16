@@ -54,5 +54,11 @@ namespace Verify
             ContarDivisoresForm ContarAllContadores = new ContarDivisoresForm();
             ContarAllContadores.Show();
         }
+
+        private void IsPerfect_Click(object sender, EventArgs e)
+        {
+            IsPerfectForm PerfectForm = new IsPerfectForm();
+            PerfectForm.Show();
+        }
     }
 }

@@ -13,3 +13,4 @@ C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verif
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsImparForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.SomarDivisoresForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.ContarDivisoresForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsPerfectForm.resources
