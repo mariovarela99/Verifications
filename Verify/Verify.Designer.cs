@@ -201,6 +201,7 @@
             this.AreFriends.TabIndex = 7;
             this.AreFriends.Text = "AreFriends?";
             this.AreFriends.UseVisualStyleBackColor = false;
+            this.AreFriends.Click += new System.EventHandler(this.AreFriends_Click);
             // 
             // IsPerfect
             // 
@@ -238,6 +239,7 @@
             this.PosOrNeg.TabIndex = 18;
             this.PosOrNeg.Text = "PosOrNeg";
             this.PosOrNeg.UseVisualStyleBackColor = false;
+            this.PosOrNeg.Click += new System.EventHandler(this.PosOrNeg_Click);
             // 
             // MediaAritmetica
             // 
@@ -303,6 +305,7 @@
             this.ParOrImpar.TabIndex = 13;
             this.ParOrImpar.Text = "ParOrImpar";
             this.ParOrImpar.UseVisualStyleBackColor = false;
+            this.ParOrImpar.Click += new System.EventHandler(this.ParOrImpar_Click);
             // 
             // Verify
             // 

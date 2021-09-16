@@ -50,6 +50,12 @@
     <Compile Include="AreEqualsForm.Designer.cs">
       <DependentUpon>AreEqualsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AreFirendsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreFirendsForm.Designer.cs">
+      <DependentUpon>AreFirendsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ContarDivisoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,18 @@
     <Compile Include="IsPrimoForm.Designer.cs">
       <DependentUpon>IsPrimoForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ParImparForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParImparForm.Designer.cs">
+      <DependentUpon>ParImparForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PositivoOrNegativeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PositivoOrNegativeForm.Designer.cs">
+      <DependentUpon>PositivoOrNegativeForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="SomarDivisoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -121,6 +139,9 @@
     <Compile Include="Verifications.cs" />
     <EmbeddedResource Include="AreEqualsForm.resx">
       <DependentUpon>AreEqualsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AreFirendsForm.resx">
+      <DependentUpon>AreFirendsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ContarDivisoresForm.resx">
       <DependentUpon>ContarDivisoresForm.cs</DependentUpon>
@@ -148,6 +169,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="IsPrimoForm.resx">
       <DependentUpon>IsPrimoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParImparForm.resx">
+      <DependentUpon>ParImparForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PositivoOrNegativeForm.resx">
+      <DependentUpon>PositivoOrNegativeForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SomarDivisoresForm.resx">
       <DependentUpon>SomarDivisoresForm.cs</DependentUpon>

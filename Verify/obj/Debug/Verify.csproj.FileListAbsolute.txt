@@ -18,3 +18,6 @@ C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verif
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.GetMaxForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.GetMinForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.AreEqualsForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.AreFirendsForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.ParImparForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.PositivoOrNegativeForm.resources

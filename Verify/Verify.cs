@@ -84,5 +84,23 @@ namespace Verify
             AreEqualsForm EqualsForm = new AreEqualsForm();
             EqualsForm.Show();
         }
+
+        private void AreFriends_Click(object sender, EventArgs e)
+        {
+            AreFirendsForm FriendsForm = new AreFirendsForm();
+            FriendsForm.Show();
+        }
+
+        private void ParOrImpar_Click(object sender, EventArgs e)
+        {
+            ParImparForm ParOrImparForm = new ParImparForm();
+            ParOrImparForm.Show();
+        }
+
+        private void PosOrNeg_Click(object sender, EventArgs e)
+        {
+            PositivoOrNegativeForm PosNegForm = new PositivoOrNegativeForm();
+            PosNegForm.Show();
+        }
     }
 }
