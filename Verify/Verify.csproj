@@ -110,6 +110,12 @@
     <Compile Include="IsPrimoForm.Designer.cs">
       <DependentUpon>IsPrimoForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MediaAritmetica3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaAritmetica3Form.Designer.cs">
+      <DependentUpon>MediaAritmetica3Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="ParImparForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -169,6 +175,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="IsPrimoForm.resx">
       <DependentUpon>IsPrimoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaAritmetica3Form.resx">
+      <DependentUpon>MediaAritmetica3Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ParImparForm.resx">
       <DependentUpon>ParImparForm.cs</DependentUpon>

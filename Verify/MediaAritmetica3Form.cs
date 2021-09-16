@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace Verify
 {
-    public partial class MediaAritmetica3 : Form
+    public partial class MediaAritmetica3Form : Form
     {
 
         Verifications Verificar = new Verifications();
 
-        public MediaAritmetica3()
+        public MediaAritmetica3Form()
         {
             InitializeComponent();
         }

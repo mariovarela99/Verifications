@@ -1,7 +1,6 @@
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.exe.config
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.exe
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\bin\Debug\Verify.pdb
-C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.csprojResolveAssemblyReference.cache
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.IsPositiveForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.Verify.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.Properties.Resources.resources
@@ -21,3 +20,4 @@ C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verif
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.AreFirendsForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.ParImparForm.resources
 C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.PositivoOrNegativeForm.resources
+C:\Users\mariovarela99\Documents\Visual Studio 2012\Projects\Verifications\Verify\obj\Debug\Verify.MediaAritmetica3Form.resources

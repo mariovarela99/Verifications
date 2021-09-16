@@ -1,6 +1,6 @@
 ﻿namespace Verify
 {
-    partial class MediaAritmetica3
+    partial class MediaAritmetica3Form
     {
         /// <summary>
         /// Required designer variable.

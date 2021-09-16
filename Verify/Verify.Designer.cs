@@ -47,6 +47,7 @@
             this.button16 = new System.Windows.Forms.Button();
             this.button17 = new System.Windows.Forms.Button();
             this.ParOrImpar = new System.Windows.Forms.Button();
+            this.lbPowered = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // IsPositive
@@ -253,6 +254,7 @@
             this.MediaAritmetica.TabIndex = 17;
             this.MediaAritmetica.Text = "MdaAritmetic3";
             this.MediaAritmetica.UseVisualStyleBackColor = false;
+            this.MediaAritmetica.Click += new System.EventHandler(this.MediaAritmetica_Click);
             // 
             // button15
             // 
@@ -266,6 +268,7 @@
             this.button15.TabIndex = 16;
             this.button15.Text = "Brevemente";
             this.button15.UseVisualStyleBackColor = false;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button16
             // 
@@ -279,6 +282,7 @@
             this.button16.TabIndex = 15;
             this.button16.Text = "Brevemente";
             this.button16.UseVisualStyleBackColor = false;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // button17
             // 
@@ -292,6 +296,7 @@
             this.button17.TabIndex = 14;
             this.button17.Text = "Brevemente";
             this.button17.UseVisualStyleBackColor = false;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // ParOrImpar
             // 
@@ -307,11 +312,23 @@
             this.ParOrImpar.UseVisualStyleBackColor = false;
             this.ParOrImpar.Click += new System.EventHandler(this.ParOrImpar_Click);
             // 
+            // lbPowered
+            // 
+            this.lbPowered.AutoSize = true;
+            this.lbPowered.Font = new System.Drawing.Font("Fira Code", 8.249999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbPowered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(35)))), ((int)(((byte)(35)))));
+            this.lbPowered.Location = new System.Drawing.Point(13, 492);
+            this.lbPowered.Name = "lbPowered";
+            this.lbPowered.Size = new System.Drawing.Size(175, 13);
+            this.lbPowered.TabIndex = 19;
+            this.lbPowered.Text = "Powered by mariovarela99";
+            // 
             // Verify
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(838, 517);
+            this.Controls.Add(this.lbPowered);
             this.Controls.Add(this.PosOrNeg);
             this.Controls.Add(this.MediaAritmetica);
             this.Controls.Add(this.button15);
@@ -359,6 +376,7 @@
         private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button ParOrImpar;
+        private System.Windows.Forms.Label lbPowered;
     }
 }
 

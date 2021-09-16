@@ -102,5 +102,26 @@ namespace Verify
             PositivoOrNegativeForm PosNegForm = new PositivoOrNegativeForm();
             PosNegForm.Show();
         }
+
+        private void MediaAritmetica_Click(object sender, EventArgs e)
+        {
+            MediaAritmetica3Form MediaForm = new MediaAritmetica3Form();
+            MediaForm.Show();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            button15.Hide();
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            button16.Hide();
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            button17.Hide();
+        }
     }
 }
