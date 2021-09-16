@@ -51,7 +51,7 @@ namespace Verify
         {
             int Contador = 0;
 
-            for (int i = 1; i < number; i++)
+            for (int i = 1; i <= number; i++)
             {
                 if (number % i == 0)
                     Contador++;

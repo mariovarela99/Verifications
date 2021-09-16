@@ -60,5 +60,11 @@ namespace Verify
             IsPerfectForm PerfectForm = new IsPerfectForm();
             PerfectForm.Show();
         }
+
+        private void IsPrimo_Click(object sender, EventArgs e)
+        {
+            IsPrimoForm PrimoForm = new IsPrimoForm();
+            PrimoForm.Show();
+        }
     }
 }

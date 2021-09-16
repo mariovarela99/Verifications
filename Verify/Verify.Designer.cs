@@ -145,6 +145,7 @@
             this.IsPrimo.TabIndex = 11;
             this.IsPrimo.Text = "IsPrimo?";
             this.IsPrimo.UseVisualStyleBackColor = false;
+            this.IsPrimo.Click += new System.EventHandler(this.IsPrimo_Click);
             // 
             // GetMax
             // 
